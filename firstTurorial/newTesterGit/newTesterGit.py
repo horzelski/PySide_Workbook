@@ -2,6 +2,8 @@ import sys
 from PySide.QtCore import *
 from PySide.QtGui import *
 
+#super test 
+
 class FORM(QDialog):
     def __init__(self, parent=None):
         super(FORM, self).__init__(parent)
