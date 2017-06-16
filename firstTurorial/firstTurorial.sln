@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "firstTurorial", "firstTurorial\firstTurorial.pyproj", "{39E2D2D7-ECE5-423A-A3FB-07EEEA4726C0}"
 EndProject
@@ -36,6 +36,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QMainWindowClass", "QMainWindowClass\QMainWindowClass.pyproj", "{BA47E107-2C67-4D3D-B9F4-905DB9BB875B}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ruff", "Ruff\Ruff.pyproj", "{3CE99BC5-D97F-4E75-AB54-F7BD13AFB00E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "newTesterGit", "newTesterGit\newTesterGit.pyproj", "{E02A1EE1-A318-4733-A2DD-C75583177B82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,8 @@ Global
 		{BA47E107-2C67-4D3D-B9F4-905DB9BB875B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE99BC5-D97F-4E75-AB54-F7BD13AFB00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3CE99BC5-D97F-4E75-AB54-F7BD13AFB00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02A1EE1-A318-4733-A2DD-C75583177B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02A1EE1-A318-4733-A2DD-C75583177B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
