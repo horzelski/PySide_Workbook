@@ -1,0 +1,39 @@
+[
+  {
+    "header": "File",
+    "Items": [
+      {
+        "id": "Open",
+        "lable": "Open"
+      },
+      {
+        "id": "Close",
+        "lable": "Close"
+      },
+      {
+        "id": "New",
+        "lable": "New"
+      }
+    ]
+  },
+  {
+    "header": "View",
+    "Items": [
+      {
+        "id": "ZoomIn",
+        "lable": "Zoom In"
+      },
+      {
+        "id": "ZoomOut",
+        "lable": "Zoom Out"
+      },
+      {
+        "id": "OriginalView",
+        "lable": "Original View"
+      }
+    ]
+  }
+
+
+
+]

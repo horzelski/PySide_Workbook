@@ -39,6 +39,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ruff", "Ruff\Ruff.pyproj", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "newTesterGit", "newTesterGit\newTesterGit.pyproj", "{E02A1EE1-A318-4733-A2DD-C75583177B82}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "jsonTest", "jsonTest\jsonTest.pyproj", "{CBC8CF7B-B679-489D-9C9C-2FFB9A763DD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,8 @@ Global
 		{3CE99BC5-D97F-4E75-AB54-F7BD13AFB00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E02A1EE1-A318-4733-A2DD-C75583177B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E02A1EE1-A318-4733-A2DD-C75583177B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC8CF7B-B679-489D-9C9C-2FFB9A763DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC8CF7B-B679-489D-9C9C-2FFB9A763DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

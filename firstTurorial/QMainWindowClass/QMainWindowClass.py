@@ -17,13 +17,6 @@ class MainWindow(QMainWindow,mainUI.Ui_MainWindow):
         print 'hello'
 
 
-
-
-
-
-
-
-
 app =  QApplication(sys.argv)
 form =  MainWindow()
 form.show()

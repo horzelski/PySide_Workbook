@@ -1,0 +1,27 @@
+{
+    "name" : "Atri",
+    "middleName" : "Dave",
+    "Salary" : 60000,
+    "Age" : 35,
+
+    "color":
+    [
+      
+    {"name": "Red",
+      "type": "Bright",
+      "signifies": ["energy", "war", "danger", "strength","power", "determination"]
+    },
+    
+    {"name": "Yello",
+      "type": "Bright",
+      "signifies": ["freshness", "happiness", "positivity", "clarity", "energy", "optimism", "enlightenment", "remembrance", "intellect", "honor", "loyalty", "joy"]
+    },
+    
+    {"name": "Blue",
+      "type": "dull",
+      "signifies": [ "trust", "loyalty", "wisdom", "confidence", "intelligence", "faith", "truth","heaven"]
+    }
+    
+    ]
+
+}
